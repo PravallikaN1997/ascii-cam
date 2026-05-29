@@ -51,7 +51,7 @@ Single canvas pipeline — what you see is exactly what gets saved. No re-render
 Just open `index.html` in Chrome. Allow camera + mic when prompted.
 
 **Hosted**
-Live at → [ascii-cam.vercel.app](https://ascii-cam.vercel.app)
+Live at → [[ascii-vibe-cam.vercel.app]](https://ascii-vibe-cam.vercel.app/)
 
 No install. No dependencies. No API keys. Pure browser.
 
